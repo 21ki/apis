@@ -1,0 +1,18 @@
+_id: env_0a97c591b321c1a6b9da4c41909af5d8445253f6
+type: Environment
+parentId: wrk_3e3e815be6014416b7603887db34dca3
+modified: 1642153807654
+created: 1642153529246
+name: Base Environment
+data:
+  HOST: 10.10.68.35:5700
+  client_id: _PxUQT_7yqda
+  client_secret: NM6Pz2pBye0_Ky0A1dNemyki
+dataPropertyOrder:
+  "&":
+    - HOST
+    - client_id
+    - client_secret
+color: null
+isPrivate: false
+metaSortKey: 1642153529246

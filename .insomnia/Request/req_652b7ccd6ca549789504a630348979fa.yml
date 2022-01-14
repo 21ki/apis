@@ -1,0 +1,22 @@
+_id: req_652b7ccd6ca549789504a630348979fa
+type: Request
+parentId: wrk_3e3e815be6014416b7603887db34dca3
+modified: 1642153667100
+created: 1642153665298
+url: http://{{ HOST
+  }}/open/auth/token?client_id={{client_id}}&client_secret={{client_secret}}
+name: get_ck
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1642153665348
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
